@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kuldeepaher01&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepaher01" /> </p>
 
-![](https://github-profile-trophy.vercel.app/?username=kuldeepaher01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+<a align="center">![](https://github-profile-trophy.vercel.app/?username=kuldeepaher01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) </a>
 
 - 🔭 I’m currently working on **GPS Tracking App Using React-Native**
 
