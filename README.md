@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kuldeepaher01&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepaher01" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuldeepaher01" alt="kuldeepaher01" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=kuldeepaher01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 - 🔭 I’m currently working on **GPS Tracking App Using React-Native**
 
@@ -17,9 +17,6 @@
 <a href="https://linkedin.com/in/kuldeep-aher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kuldeep-aher" height="30" width="40" /></a>
 </p>
 # 💻 Tech Stack:
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kuldeep-aher) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kuldeepaher01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kuldeepaher01&theme=dark&hide_border=false)<br/>
