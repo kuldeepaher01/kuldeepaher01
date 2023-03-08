@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Aher</h1>
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kuldeepaher01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=kuldeepaher01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4) </a>
 
 - 🔭 I’m currently working on **GPS Tracking App Using React-Native**
 
