@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kuldeep Aher</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeepaher01&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeepaher01" /> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kuldeepaher01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
