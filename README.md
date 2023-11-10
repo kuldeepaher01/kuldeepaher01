@@ -4,9 +4,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kuldeepaher01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on **GPS Tracking App Using React-Native**
+- 🔭 I’m currently working on **Reinforcement learning for autonomous vehicles**
 
-- 🌱 I’m currently learning **React, ML and Advanced OOP**
+- 🌱 I’m currently learning **ML and Advanced DSA**
 
 - 👯 I’m looking to collaborate on **CNN Project**
 
